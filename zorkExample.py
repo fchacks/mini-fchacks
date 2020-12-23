@@ -22,7 +22,7 @@ while not exit:
     elif command == "collect":
         if position == (1,1):
             inventory.append("book")
-            print("collected a book")
+            print("collected the naughty and nice list")
         else:
             print("nothing to collect")
     elif command == "invent":
