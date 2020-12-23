@@ -32,6 +32,6 @@ while not exit:
     if position == (1,1):
         print("You see a book")
     if position == (1,2):
-        print("You got eaten by a monster")
+        print("You reached the north pole")
         exit = True
 print("game over")
